@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,dler.io
 DOMAIN,jdsharedresourcescdn.azureedge.net
 DOMAIN,ssp-cloud.net
 DOMAIN,mysub.cc
-IP-CIDR,209.141.36.121
+MATCH,209.141.36.121
