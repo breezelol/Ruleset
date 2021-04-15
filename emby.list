@@ -1,20 +1,21 @@
 # EMBY公益服代理列表
 
 #卷毛鼠
-DOMAIN,agahk1.jmsooo.com,🇭🇰 香港节点
-DOMAIN,agasg1.jmsooo.com,🇸🇬 狮城节点
-DOMAIN,agajp1.jmsooo.com,🇯🇵 日本节点
-DOMAIN,aws.jmsooo.com,🇸🇬 狮城节点
-DOMAIN,ntt1.jmsooo.com,🇯🇵 日本节点
-DOMAIN,hinet.jmsooo.com,🇨🇳 台湾节点
-DOMAIN,cf1.jmsooo.com,🌍 翻越高山
+DOMAIN,agahk1.jmsooo.com
+DOMAIN,agasg1.jmsooo.com
+DOMAIN,agajp1.jmsooo.com
+DOMAIN,aws.jmsooo.com
+DOMAIN,ntt1.jmsooo.com
+DOMAIN,hinet.jmsooo.com
+DOMAIN,cf1.jmsooo.com
 
 #普拉斯
-DOMAIN,emby-cf.plusmedia.site,🌍 翻越高山
-DOMAIN,emby.xeton.dev,🌍 翻越高山
-DOMAIN,jellyfin.xeton.dev,🌍 翻越高山
-DOMAIN,movie.xeton.dev,🌍 翻越高山
-DOMAIN,servers.xeton.dev,🌍 翻越高山
-DOMAIN,emby.maying.club,🇺🇲 美国节点
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
+DOMAIN,emby.maying.club
 
 #终点站
+DOMAIN-SUFFIX,emby.wtf
