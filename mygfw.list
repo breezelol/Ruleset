@@ -8,5 +8,5 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,wcc.best
 DOMAIN,jdsharedresourcescdn.azureedge.net
-DOMAIN,ssp-cloud.net
-DOMAIN,mysub.cc
+DOMAIN-SUFFIX,ssp-cloud.net
+DOMAIN-SUFFIX,mysub.cc
