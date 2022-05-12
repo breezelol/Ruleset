@@ -1,12 +1,13 @@
 # 自用游戏代理
 
 #EVE欧服
-;DOMAIN-KEYWORD,eve
-;DOMAIN-KEYWORD,ccp
-PROCESS-NAME,eve.exe
-PROCESS-NAME,evelauncher.exe
-PROCESS-NAME,crashpad_handler.exe
-PROCESS-NAME,QtWebEngineProcess.exe
-PROCESS-NAME,eve_crashmon.exe
-PROCESS-NAME,exefile.exe
-PROCESS-NAME,zhpatch-auto.exe
+DOMAIN-KEYWORD,eve
+DOMAIN-KEYWORD,ccp
+DOMAIN-KEYWORD,zhpatch
+;PROCESS-NAME,eve.exe
+;PROCESS-NAME,evelauncher.exe
+;PROCESS-NAME,crashpad_handler.exe
+;PROCESS-NAME,QtWebEngineProcess.exe
+;PROCESS-NAME,eve_crashmon.exe
+;PROCESS-NAME,exefile.exe
+;PROCESS-NAME,zhpatch-auto.exe
