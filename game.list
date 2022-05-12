@@ -9,3 +9,4 @@ PROCESS-NAME,crashpad_handler.exe
 PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,eve_crashmon.exe
 PROCESS-NAME,exefile.exe
+PROCESS-NAME,zhpatch-auto.exe
