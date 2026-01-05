@@ -397,6 +397,7 @@ rules:
   - "RULE-SET,SteamCN,DIRECT"
   - "RULE-SET,Download,DIRECT"
   - "RULE-SET,myproxy,节点选择"
+  - "DOMAIN-SUFFIX,easyemby.com,手动切换"
   - "RULE-SET,Epic,游戏平台"
   - "RULE-SET,Origin,游戏平台"
   - "RULE-SET,Sony,游戏平台"
