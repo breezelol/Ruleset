@@ -1,5 +1,8 @@
 # EMBY公益服代理列表
 
+#Enet
+DOMAIN-SUFFIX,easyemby.com
+
 #自建
 DOMAIN,cdn.heys.cloud
 
